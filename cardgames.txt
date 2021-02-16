@@ -1,0 +1,19 @@
+Blackjack - dra kort och försök stanna innan du får 21
+
+Del 1: AddNewRandomCard
+- funktion som genererar ett slumpat kort.
+
+Del 1.2: En knapp för att dra ett kort och en för att stanna.
+
+
+Del 2: Visa kortet.
+
+Del 3: Vi behöver veta värdet på kortet för att räkna ihop summan.
+- värdet finns i arrayen med kort-objekt.
+
+Del 4: Vi behöver veta summan av korten vi har dragit.
+- vi behöver en variabel som håller reda på summan.
+- addera kortets värdet till nuvarande summan när vi drar ett kort.
+
+Del 5: Jämför suman med 21 efter vi har dragit ett kort för att se om man har förlorat eller vunnit.
+
